@@ -1,0 +1,20 @@
+# alias radio='function __radio(){ r=`grep -i $1 radios_nacionales.txt | cut -d" " -f1`; cvlc $r; }; __radio'
+# podria utilizarse mplayer en vez de vlc
+
+AMs Nacionales
+
+http://200.68.81.65:8000/am530                                              Radio Madre         530
+http://am570.prodera.com.ar:8000                                            Radio Argentina     570
+http://1351.live.streamtheworld.com:80/CONTINENTAL_SC                       Continental         590
+http://190.104.220.205:8234                                                 Rivadavia           630
+http://wmserver3.aginet.com.ar:13574                                        Belgrano-650        650
+rtmp://radio10.stweb.tv:1935/radio10/live                                   Radio 10            710
+http://190.104.217.181:9754/;stream.nsv                                     Radio Rebelde       740
+http://rcoop.cnwks.ws:8358                                                  Cooperativa         770
+http://buecrplb01.cienradios.com.ar/Mitre790.aac                            Radio Mitre         790
+mms://200.68.117.13:5500                                                    Del Pueblo          830
+rtmp://186.33.227.193/rn_sc_rad1/mp3:rn_sc_rad1.stream                      Radio Nacional      870
+http://lsdlrhls-lh.akamaihd.net/i/laredHLS_1@59923/master.m3u8              La Red              910
+http://200.58.118.108:8160/stream                                           Radio Gral Belg     950
+http://streamlky.alsolnet.com:443/radio9                                    R9 La Deportiva     950
+http://lsddelplatahls-lh.akamaihd.net/i/amdelplataHLS_1@126173/master.m3u8  Del Plata          1030
