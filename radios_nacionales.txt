@@ -27,12 +27,18 @@ http://radiolaluna.radio12345.com/listen2myradio/proxy.php?station=main     Radi
 rtmp://server2.stweb.tv:1935/america/live_128                               Radio América      1190
 
 
-FM:
+FMs CABA:
 
 http://vivo.fmlatribu.com:8000/latribu.mp3                                                       La Tribu            88.7
+http://vivo.radioam750.com.ar/vivofm.mp3                                                         Malena              89.1
+http://208.98.41.72:9304                                                                         La Boca             90.1
+http://14983.live.streamtheworld.com/DELTA_903AAC                                                Delta               90.3
 http://streaming.fibercorp.com.ar/epa2/ngrp:Vorterix_radio1_high-20057_all/manifest.m3u8         Vorterix            92.1
+http://108.166.161.217:7320/;                                                                    Zero                92.5
 http://176.9.33.75:9270/;                                                                        La 2x4              92.7
+rtmp://186.33.227.195/rn_sc_rad39/mp3:rn_sc_rad39.stream                                         Nacional Rock       93.7
 http://mp3.metroaudio1.stream.avstreaming.net:7200/metro                                         Metro               95.1
+http://188.40.137.143:9330/;stream.nsv                                                           Concepto            95.5
 rtmp://server4.stweb.tv:1935/rockpop/live                                                        Rock & Pop          95.9
 http://icecast01.dcarsat.com.ar:8000/sc_rad37                                                    Nacional Clásica    96.7
 rtmp://vale.stweb.tv:1935/vale/live                                                              Vale                97.5
@@ -42,4 +48,9 @@ http://mp3.metroaudio1.stream.avstreaming.net:7200/bluefmaudio1                 
 http://streaming.latina101.com.ar:8080/RadioLatina                                               Latina             101.1
 rtmp://popradio.stweb.tv:1935/popradio/live                                                      Pop                101.5
 http://201.212.5.144/aspen?MSWMExt=.asf                                                          Aspen              102.3
+http://190.104.220.205:8233/stream                                                               Radio Uno          103.1
+http://streamall.alsolnet.com:443/klimaxok                                                       Klimax             103.5
+http://streamall.alsolnet.com:443/fmsonidohd?type=.flv                                           Sonido             103.5
+rtmp://server5.stweb.tv:1935/one/live                                                            One                103.7
+rtmp://server5.stweb.tv:1935/RQP/live                                                            RQP                104.3
 http://50.22.212.205:8078/;                                                                      Milenium           106.7
