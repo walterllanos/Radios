@@ -5,8 +5,8 @@ AMs Nacionales
 
 http://200.68.81.65:8000/am530                                              Radio Madre         530
 http://wmserver3.aginet.com.ar:19043                                        Radio Colonia       550
-http://am570.prodera.com.ar:8000                                            Radio Argentina     570
-http://1351.live.streamtheworld.com:80/CONTINENTAL_SC                       Continental         590
+http://195.154.182.222:26016/;stream/1                                      Radio Argentina     570
+http://7359.live.streamtheworld.com/CONTINENTAL.mp3                         Continental         590
 http://190.104.220.205:8234                                                 Rivadavia           630
 http://wmserver3.aginet.com.ar:13574                                        Belgrano-650        650
 rtmp://radio10.stweb.tv:1935/radio10/live                                   Radio 10            710
@@ -28,7 +28,6 @@ rtmp://server2.stweb.tv:1935/america/live_128                               Radi
 
 
 FMs CABA:
-
 http://vivo.fmlatribu.com:8000/latribu.mp3                                                       La Tribu            88.7
 http://vivo.radioam750.com.ar/vivofm.mp3                                                         Malena              89.1
 http://208.98.41.72:9304                                                                         La Boca             90.1
@@ -37,9 +36,10 @@ http://streaming.fibercorp.com.ar/epa2/ngrp:Vorterix_radio1_high-20057_all/manif
 http://108.166.161.217:7320/;                                                                    Zero                92.5
 http://176.9.33.75:9270/;                                                                        La 2x4              92.7
 rtmp://186.33.227.195/rn_sc_rad39/mp3:rn_sc_rad39.stream                                         Nacional Rock       93.7
+http://disneyargradio-lh.akamaihd.net/i/ARG_Disney_RADIO@102438/master.m3u8                      RadioDisney         94.3
 http://mp3.metroaudio1.stream.avstreaming.net:7200/metro                                         Metro               95.1
 http://188.40.137.143:9330/;stream.nsv                                                           Concepto            95.5
-rtmp://server4.stweb.tv:1935/rockpop/live                                                        Rock & Pop          95.9
+rtmp://200.69.47.99/live/audioweb                                                                Rock & Pop          95.9
 http://icecast01.dcarsat.com.ar:8000/sc_rad37                                                    Nacional Clásica    96.7
 rtmp://vale.stweb.tv:1935/vale/live                                                              Vale                97.5
 rtmp://server5.stweb.tv:1935/mega983/live                                                        Mega                98.3
