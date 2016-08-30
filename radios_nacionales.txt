@@ -21,7 +21,7 @@ http://200.58.118.108:8160/stream                                           Radi
 http://streamlky.alsolnet.com:443/radio9                                    R9 La Deportiva     950
 http://streaming.radiolinksmedia.com:7790/;                                 Radio Génesis       970
 # FALTA                                                                       Splendid            990
-http://cdn-zc-lsd-3.planisys.net:1935/AM2/live/playlist.m3u8                Del Plata          1030
+http://cdn-he-lsd-4.planisys.net:1935/AM2/live/playlist.m3u8                Del Plata          1030
 http://radiostream.elmundoradio.com:8332/;stream/1                          El Mundo           1070
 http://radiolaluna.radio12345.com/listen2myradio/proxy.php?station=main     Radio La Luna      1140
 rtmp://server2.stweb.tv:1935/america/live_128                               Radio América      1190
