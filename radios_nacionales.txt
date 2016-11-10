@@ -59,6 +59,7 @@ http://streamall.alsolnet.com:443/fmsonidohd?type=.flv                          
 rtmp://server5.stweb.tv:1935/one/live                                                            One                103.7
 http://14933.live.streamtheworld.com/RQPAAC                                                      RQP                104.3
 http://50.22.212.205:8078/;                                                                      Milenium           106.7
+http://apiradio.espn-la.com/64list.m3u8                                                          ESPN               107.9
 
 
 FM Onlines
