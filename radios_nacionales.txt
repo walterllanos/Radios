@@ -52,7 +52,7 @@ http://buecrplb01.cienradios.com.ar/la100.aac                                   
 http://mp3.metroaudio1.stream.avstreaming.net:7200/bluefmaudio1                                  Blue               100.7
 http://streaming.latina101.com.ar:8080/RadioLatina                                               Latina             101.1
 rtmp://popradio.stweb.tv:1935/popradio/live                                                      Pop                101.5
-http://9443.live.streamtheworld.com/ASPENAAC                                                     Aspen              102.3
+http://playerservices.streamtheworld.com/api/livestream-redirect/ASPENAAC                        Aspen              102.3
 http://190.104.220.205:8233/stream                                                               Radio Uno          103.1
 http://streamall.alsolnet.com:443/klimaxok                                                       Klimax             103.5
 http://streamall.alsolnet.com:443/fmsonidohd?type=.flv                                           Sonido             103.5
