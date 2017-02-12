@@ -1,4 +1,4 @@
-# alias radio='function __radio(){ r=`grep -v "#" radios_nacionales.txt | grep -m 1 -i $1 | cut -d" " -f1`; cvlc $r; }; __radio'
+# alias radio='function __radio(){ r=`grep -v "#" radios_nacionales.txt | grep -m 1 -i $1 | cut -d" " -f1`; cvlc $r 2> /dev/null; }; __radio'
 # podria utilizarse mplayer en vez de vlc
 
 AMs Nacionales
@@ -51,13 +51,15 @@ rtmp://server5.stweb.tv:1935/mega983/live                                       
 http://buecrplb01.cienradios.com.ar/la100.aac                                                    La 100              99.9
 http://mp3.metroaudio1.stream.avstreaming.net:7200/bluefmaudio1                                  Blue               100.7
 http://streaming.latina101.com.ar:8080/RadioLatina                                               Latina             101.1
-rtmp://popradio.stweb.tv:1935/popradio/live                                                      Pop                101.5
+http://69.175.20.242:8086/live                                                                   Pop                101.5
+# rtmp://popradio.stweb.tv:1935/popradio/live                                                      Pop                101.5
 http://playerservices.streamtheworld.com/api/livestream-redirect/ASPENAAC                        Aspen              102.3
 http://190.104.220.205:8233/stream                                                               Radio Uno          103.1
 http://streamall.alsolnet.com:443/klimaxok                                                       Klimax             103.5
 http://streamall.alsolnet.com:443/fmsonidohd?type=.flv                                           Sonido             103.5
 rtmp://server5.stweb.tv:1935/one/live                                                            One                103.7
 http://14933.live.streamtheworld.com/RQPAAC                                                      RQP                104.3
+http://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_ARGENTINAAAC              Los 40             105.5
 http://50.22.212.205:8078/;                                                                      Milenium           106.7
 http://apiradio.espn-la.com/64list.m3u8                                                          ESPN               107.9
 
