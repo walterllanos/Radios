@@ -7,7 +7,7 @@ http://200.68.81.65:8000/am530                                              Radi
 http://wmserver3.aginet.com.ar:19043                                        Radio Colonia       550
 http://195.154.182.222:26016/;stream/1                                      Radio Argentina     570
 http://7359.live.streamtheworld.com/CONTINENTAL.mp3                         Continental         590
-http://181.119.20.132:8234/stream                                           Rivadavia           630
+http://38.107.243.197:9639/live                                             Rivadavia           630
 http://wmserver3.aginet.com.ar:13574                                        Belgrano-650        650
 rtmp://radio10.stweb.tv:1935/radio10/live                                   Radio 10            710
 http://190.104.217.181:9754/;stream.nsv                                     Radio Rebelde       740
