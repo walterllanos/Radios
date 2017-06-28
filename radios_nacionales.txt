@@ -6,7 +6,7 @@ AMs Nacionales
 http://200.68.81.65:8000/am530                                              Radio Madre         530
 http://www.servidorstreaming1.com:9962/;                                    Radio Colonia       550
 http://195.154.182.222:25223/live.mp3                                       Radio Argentina     570
-http://14933.live.streamtheworld.com/CONTINENTAL.mp3                        Continental         590
+http://18683.live.streamtheworld.com/CONTINENTAL_SC                         Continental         590
 http://38.107.243.197:9639/live                                             Rivadavia           630
 http://195.154.182.222:25224/live.mp3                                       Belgrano-650        650
 rtmp://radio10.stweb.tv:1935/radio10/live                                   Radio 10            710
@@ -53,6 +53,7 @@ http://mp3.metroaudio1.stream.avstreaming.net:7200/bluefmaudio1                 
 http://streaming.latina101.com.ar:8080/RadioLatina                                               Latina             101.1
 http://69.175.20.242:8086/live                                                                   Pop                101.5
 # rtmp://popradio.stweb.tv:1935/popradio/live                                                      Pop                101.5
+http://server1.stweb.tv:1935/vorterix/radio/playlist.m3u8                                        La patriada        102.1
 http://playerservices.streamtheworld.com/api/livestream-redirect/ASPENAAC                        Aspen              102.3
 http://190.104.220.205:8233/stream                                                               Radio Uno          103.1
 http://streamall.alsolnet.com:443/klimaxok                                                       Klimax             103.5
