@@ -74,3 +74,4 @@ http://apiradio.espn-la.com/64list.m3u8                                         
 
 FM Onlines
 http://radio1.us.mediastre.am/futurockargentina.aac                                              Futurock
+http://relay.relatores.la/radio.mp3                                                              Relatores
